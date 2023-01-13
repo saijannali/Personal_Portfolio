@@ -46,7 +46,7 @@ export const NavBar = () => {
             <span className="navbar-text">
               <div className="social-icon">
                 <a href="https://www.linkedin.com/in/sai-jannali/"><img src={navIcon1} alt="" /></a>
-                <a href="https://www.linkedin.com/in/sai-jannali/"><img src={navIcon2} alt="" /></a>
+                <a href="https://github.com/saijannali"><img src={navIcon2} alt="" /></a>
               </div>
             </span>
           </Navbar.Collapse>
