@@ -25,7 +25,7 @@ export const Projects = () => {
     const projects = [
     {
       title: "Court Check",
-      description: "iOS mobile application designed to allow users to update player traffic at verious locations. This app was made using Firebase and NodeJS along with frameworks such as SwiftUI & MapKit",
+      description: "iOS mobile application designed to allow users to update player traffic at verious locations. This app was made using SwiftUI, Firebase, and NodeJS ",
       imgUrl: court_check,
       imgUrl2: court_check2,
     },
@@ -37,7 +37,7 @@ export const Projects = () => {
     },
     {
       title: "Alter Color",
-      description: "This was my first application created using swift",
+      description: "This was my first swift application done in UIkit. This app allows a user to modify an image and uses core data to persist the image file path.",
       imgUrl: alter_color,
       imgUrl2: alter_color2,
     },
@@ -51,13 +51,13 @@ export const Projects = () => {
     },
     {
       title: "Binary Search Tree GUI",
-      description: "Design & Development",
+      description: "A simple java application that creates a visual of a BST that changes based on user inputs with the help of JFrame",
       imgUrl: bst,
       imgUrl2: bst2,
     },
     {
       title: "College Placement Model",
-      description: "Design & Development",
+      description: "A model that uses tree classifiers and multiple linear regression to predict corrleations in the given kaggle data set. This project was done in R",
       imgUrl: kaggle,
       imgUrl2: kaggle2,
     },
